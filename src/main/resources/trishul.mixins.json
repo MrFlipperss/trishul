@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.trishul.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ImpalingEnchantmentMixin",
+    "LivingEntityAccessor",
+    "LivingEntityMixin",
+    "PersistentProjectileAccessor",
+    "RiptideDepthStriderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
