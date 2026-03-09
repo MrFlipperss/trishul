@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "trishul",
+  "version": "1.5.2",
+  "name": "Trishul",
+  "description": "Trident Modifications",
+  "authors": ["Dhruv Gandhi","Omkar Bichu","Arnav Agrawal","Vedant Darak"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+    ]
+  },
+  "mixins": [
+    "trishul.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21"
+  }
+}
