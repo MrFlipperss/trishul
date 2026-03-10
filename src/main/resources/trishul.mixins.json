@@ -11,7 +11,9 @@
     "TridentAccessor",
     "TridentCallbackMixin",
     "PlayerCallbackMixin",
-    "MeleeImpalingMixin"
+    "MeleeImpalingMixin",
+    "AnvilScreenHandlerMixin",
+    "PlayerAttackMixin"
   ],
   "injectors": {
     "defaultRequire": 1

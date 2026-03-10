@@ -9,6 +9,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
+      "com.trishul.Trishul"
+    ],
+    "client": [
+      "com.trishul.TrishulClient"
     ]
   },
   "mixins": [
